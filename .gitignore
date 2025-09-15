@@ -1,3 +1,4 @@
 books
-.pyc
+pyc
 pycache
+__pycache__/stats.cpython-312.pyc
